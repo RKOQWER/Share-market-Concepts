@@ -116,7 +116,95 @@ FII(Foreign Institutional Invester)
 
 53. GTD(Good till day):- If an invester places a limit price order at Rs. 190 , where LTP is Rs. 195 , the order will stay in the order book .If it gets executed , it will start appearing in the trade book. If an order remains unexceuted till the day end , then it will get automatically cancelled.
 
-54. 
+54. Red -> Down -> Bearish -> short
+
+55. Green -> up -> Bullish -> long
+
+56. Never catch a following knife.
+
+57. Short sell: It is a trade where a trader sells first and buys later. Short sell is preferred by traders if they are bearish about the market 
+
+58. Shares Auction: If a person does a short sell and does not square off his position then his shares are auctioned. Brokers participate in auction market from 3:30 to 4:00 on behalf of their client. Any loss arising due to such a transaction will be borne by the short seller and any profit will be transferred to IEPF.
+
+59. Stop Loss:
+There are two types of stop loss orders:-
+1. Stop loss market order:
+2. Stop loss limit order:
+
+Stop loss orders are commonly used in trading to help investors and traders minimize potential losses on their positions. These orders are designed to automatically execute a trade when a specified price level is reached, thereby limiting further losses. There are two main types of stop loss orders: stop loss market orders and stop loss limit orders. Let's explain each of them:
+
+Stop Loss Market Order:
+
+A stop loss market order is an order to sell a security (or close a position) at the current market price once a specific trigger price, known as the "stop price" or "stop level," is reached.
+When the stop price is triggered, the stop loss market order becomes a market order, meaning it will be executed at the prevailing market price, which could be different from the stop price. Market orders guarantee execution but not necessarily a specific price.
+This type of stop loss is used when the trader or investor wants to ensure that the position is closed quickly when the stop price is hit, regardless of the exact price at which the trade is executed.
+Stop Loss Limit Order:
+
+A stop loss limit order is an order to sell a security (or close a position) at a specific price or better (the "limit price") once a predefined trigger price (the "stop price" or "stop level") is reached.
+When the stop price is triggered, the stop loss limit order becomes a limit order and will only be executed at the specified limit price or a better price if available in the market.
+This type of stop loss provides more control over the execution price compared to a market order. However, there's no guarantee that the order will be executed if the market doesn't reach the limit price.
+Here's an example to illustrate the difference:
+
+Let's say you own shares of Company XYZ, which is currently trading at $50 per share. You want to set a stop loss order to limit potential losses:
+
+If you set a stop loss market order with a stop price of $45, as soon as the stock's price drops to or below $45, your order will become a market order and be executed at the current market price, which may be lower than $45, depending on market conditions.
+
+On the other hand, if you set a stop loss limit order with a stop price of $45 and a limit price of $44, your order will only be executed if the stock's price drops to or below $45, and it can be filled at $44 or better. If the stock falls to $45 but never reaches $44 or higher, your order will not be executed.
+
+In summary, stop loss market orders prioritize execution speed, while stop loss limit orders offer more price control but do not guarantee execution if the specified limit price is not met. The choice between the two types of stop loss orders depends on an investor's risk tolerance and trading strategy.
+
+50. Always go for stop loss market.
+
+51. Circuit filter : It is a price level beyond / below which a stock price cannot fall/ rise in a single day.
+Common %age circuit filters are 5%, 10%, 20%.On day 2 , 20% will be calculated on closing price of day 1.
+
+52. For some shares stock limit is not applicable.
+
+53. If the stock is listed in F&O then for such stocks circuit filter not applicable.
+
+54. Technical analysis is the price action analysis + volume action analysis.
+
+55. There are three trends in market:-
+(a) Up trend
+(b) Down trend
+(c) Sideways
+
+56. If you are a trader , you need to learn to book a loss.
+
+57. Series of Ht-HB  --> Uptrend
+
+58. Series of LT- LB -> Low trend
+
+59. Differnt types of chart:
+
+        Line Chart
+        Bar chart
+        Candlestick chart
+
+60. Line chart use to identify trend.
+
+61. Price is the supreme indicator.
+
+62. Concept of Support and Resistence:-  Support is the price level at which demand is thought to be strong enough to prevent the price from declining further.
+
+Resistence is the price level at which selling demand is thought to be strong enough to prevent the price from rising further,
+
+63. Upper circuit: The topmost price beyond which the share cannot move up on a single day . It is typically charaterised by all buyers and no/very few sellers.
+
+64. Lower circuit: The lowermost price beyobd which the shares cannot fall down on a single day. It is typically characterised by all sellers and very few /no buyers.
+
+65. Exceptions : circuit filters will not apply if:-
+        1. The stock is also listed in the F&O segment.
+        2. If it is the first day of listing on the secondary markets.
+
+66. Exit poll ke samay market upar jaayega kuch samay tak. Enter and exit the sale before the event is very clear.
+
+67. 
+
+
+
+
+
 
 
 
